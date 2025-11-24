@@ -1,0 +1,146 @@
+gender,heart_sound_type,location,heart_sound_id,mixed_sound_id,mixture_file,heart_ref_file
+F,Late Systolic Murmur,LUSB,H0001,M0001,data/mixed_sounds/mixed_ref/wav/M0001.wav,data/mixed_sounds/heart_ref/wav/H0001.wav
+F,S3,RLA,H0002,M0002,data/mixed_sounds/mixed_ref/wav/M0002.wav,data/mixed_sounds/heart_ref/wav/H0002.wav
+M,Atrial Fibrillation,LMA,H0003,M0003,data/mixed_sounds/mixed_ref/wav/M0003.wav,data/mixed_sounds/heart_ref/wav/H0003.wav
+F,S3,Apex,H0004,M0004,data/mixed_sounds/mixed_ref/wav/M0004.wav,data/mixed_sounds/heart_ref/wav/H0004.wav
+M,AV Block,RUSB,H0005,M0005,data/mixed_sounds/mixed_ref/wav/M0005.wav,data/mixed_sounds/heart_ref/wav/H0005.wav
+F,S3,RC,H0006,M0006,data/mixed_sounds/mixed_ref/wav/M0006.wav,data/mixed_sounds/heart_ref/wav/H0006.wav
+M,Tachycardia,Apex,H0007,M0007,data/mixed_sounds/mixed_ref/wav/M0007.wav,data/mixed_sounds/heart_ref/wav/H0007.wav
+F,Early Systolic Murmur,LMA,H0008,M0008,data/mixed_sounds/mixed_ref/wav/M0008.wav,data/mixed_sounds/heart_ref/wav/H0008.wav
+M,Mid Systolic Murmur,LUA,H0009,M0009,data/mixed_sounds/mixed_ref/wav/M0009.wav,data/mixed_sounds/heart_ref/wav/H0009.wav
+F,Early Systolic Murmur,LUA,H0010,M0010,data/mixed_sounds/mixed_ref/wav/M0010.wav,data/mixed_sounds/heart_ref/wav/H0010.wav
+M,S4,Apex,H0011,M0011,data/mixed_sounds/mixed_ref/wav/M0011.wav,data/mixed_sounds/heart_ref/wav/H0011.wav
+F,AV Block,RMA,H0012,M0012,data/mixed_sounds/mixed_ref/wav/M0012.wav,data/mixed_sounds/heart_ref/wav/H0012.wav
+F,Atrial Fibrillation,RC,H0013,M0013,data/mixed_sounds/mixed_ref/wav/M0013.wav,data/mixed_sounds/heart_ref/wav/H0013.wav
+F,Late Diastolic Murmur,LUA,H0014,M0014,data/mixed_sounds/mixed_ref/wav/M0014.wav,data/mixed_sounds/heart_ref/wav/H0014.wav
+F,Late Diastolic Murmur,LUA,H0015,M0015,data/mixed_sounds/mixed_ref/wav/M0015.wav,data/mixed_sounds/heart_ref/wav/H0015.wav
+F,Atrial Fibrillation,RLA,H0016,M0016,data/mixed_sounds/mixed_ref/wav/M0016.wav,data/mixed_sounds/heart_ref/wav/H0016.wav
+F,S3,RC,H0017,M0017,data/mixed_sounds/mixed_ref/wav/M0017.wav,data/mixed_sounds/heart_ref/wav/H0017.wav
+F,Late Systolic Murmur,RMA,H0018,M0018,data/mixed_sounds/mixed_ref/wav/M0018.wav,data/mixed_sounds/heart_ref/wav/H0018.wav
+M,Tachycardia,RUA,H0019,M0019,data/mixed_sounds/mixed_ref/wav/M0019.wav,data/mixed_sounds/heart_ref/wav/H0019.wav
+F,Late Diastolic Murmur,RLA,H0020,M0020,data/mixed_sounds/mixed_ref/wav/M0020.wav,data/mixed_sounds/heart_ref/wav/H0020.wav
+M,Late Systolic Murmur,LUSB,H0021,M0021,data/mixed_sounds/mixed_ref/wav/M0021.wav,data/mixed_sounds/heart_ref/wav/H0021.wav
+M,AV Block,LMA,H0022,M0022,data/mixed_sounds/mixed_ref/wav/M0022.wav,data/mixed_sounds/heart_ref/wav/H0022.wav
+M,Tachycardia,LC,H0023,M0023,data/mixed_sounds/mixed_ref/wav/M0023.wav,data/mixed_sounds/heart_ref/wav/H0023.wav
+M,S4,LUSB,H0024,M0024,data/mixed_sounds/mixed_ref/wav/M0024.wav,data/mixed_sounds/heart_ref/wav/H0024.wav
+M,Atrial Fibrillation,RC,H0025,M0025,data/mixed_sounds/mixed_ref/wav/M0025.wav,data/mixed_sounds/heart_ref/wav/H0025.wav
+F,S3,LUSB,H0026,M0026,data/mixed_sounds/mixed_ref/wav/M0026.wav,data/mixed_sounds/heart_ref/wav/H0026.wav
+M,Late Diastolic Murmur,RMA,H0027,M0027,data/mixed_sounds/mixed_ref/wav/M0027.wav,data/mixed_sounds/heart_ref/wav/H0027.wav
+F,AV Block,RC,H0028,M0028,data/mixed_sounds/mixed_ref/wav/M0028.wav,data/mixed_sounds/heart_ref/wav/H0028.wav
+M,Tachycardia,LC,H0029,M0029,data/mixed_sounds/mixed_ref/wav/M0029.wav,data/mixed_sounds/heart_ref/wav/H0029.wav
+F,S4,RC,H0030,M0030,data/mixed_sounds/mixed_ref/wav/M0030.wav,data/mixed_sounds/heart_ref/wav/H0030.wav
+F,Late Systolic Murmur,RC,H0031,M0031,data/mixed_sounds/mixed_ref/wav/M0031.wav,data/mixed_sounds/heart_ref/wav/H0031.wav
+F,Tachycardia,LUA,H0032,M0032,data/mixed_sounds/mixed_ref/wav/M0032.wav,data/mixed_sounds/heart_ref/wav/H0032.wav
+F,Late Systolic Murmur,LUSB,H0033,M0033,data/mixed_sounds/mixed_ref/wav/M0033.wav,data/mixed_sounds/heart_ref/wav/H0033.wav
+M,Early Systolic Murmur,RC,H0034,M0034,data/mixed_sounds/mixed_ref/wav/M0034.wav,data/mixed_sounds/heart_ref/wav/H0034.wav
+M,S4,RLA,H0035,M0035,data/mixed_sounds/mixed_ref/wav/M0035.wav,data/mixed_sounds/heart_ref/wav/H0035.wav
+M,S3,LUA,H0036,M0036,data/mixed_sounds/mixed_ref/wav/M0036.wav,data/mixed_sounds/heart_ref/wav/H0036.wav
+M,AV Block,LLSB,H0037,M0037,data/mixed_sounds/mixed_ref/wav/M0037.wav,data/mixed_sounds/heart_ref/wav/H0037.wav
+F,S3,LLSB,H0038,M0038,data/mixed_sounds/mixed_ref/wav/M0038.wav,data/mixed_sounds/heart_ref/wav/H0038.wav
+M,Normal,LC,H0039,M0039,data/mixed_sounds/mixed_ref/wav/M0039.wav,data/mixed_sounds/heart_ref/wav/H0039.wav
+M,Tachycardia,LC,H0040,M0040,data/mixed_sounds/mixed_ref/wav/M0040.wav,data/mixed_sounds/heart_ref/wav/H0040.wav
+F,Atrial Fibrillation,LLA,H0041,M0041,data/mixed_sounds/mixed_ref/wav/M0041.wav,data/mixed_sounds/heart_ref/wav/H0041.wav
+F,Mid Systolic Murmur,RUA,H0042,M0042,data/mixed_sounds/mixed_ref/wav/M0042.wav,data/mixed_sounds/heart_ref/wav/H0042.wav
+M,Tachycardia,LLSB,H0043,M0043,data/mixed_sounds/mixed_ref/wav/M0043.wav,data/mixed_sounds/heart_ref/wav/H0043.wav
+M,Normal,RC,H0044,M0044,data/mixed_sounds/mixed_ref/wav/M0044.wav,data/mixed_sounds/heart_ref/wav/H0044.wav
+M,Late Diastolic Murmur,LLSB,H0045,M0045,data/mixed_sounds/mixed_ref/wav/M0045.wav,data/mixed_sounds/heart_ref/wav/H0045.wav
+F,Atrial Fibrillation,LMA,H0046,M0046,data/mixed_sounds/mixed_ref/wav/M0046.wav,data/mixed_sounds/heart_ref/wav/H0046.wav
+M,Atrial Fibrillation,RMA,H0047,M0047,data/mixed_sounds/mixed_ref/wav/M0047.wav,data/mixed_sounds/heart_ref/wav/H0047.wav
+F,S4,RLA,H0048,M0048,data/mixed_sounds/mixed_ref/wav/M0048.wav,data/mixed_sounds/heart_ref/wav/H0048.wav
+M,S4,RUA,H0049,M0049,data/mixed_sounds/mixed_ref/wav/M0049.wav,data/mixed_sounds/heart_ref/wav/H0049.wav
+F,Early Systolic Murmur,LUSB,H0050,M0050,data/mixed_sounds/mixed_ref/wav/M0050.wav,data/mixed_sounds/heart_ref/wav/H0050.wav
+F,Tachycardia,RC,H0051,M0051,data/mixed_sounds/mixed_ref/wav/M0051.wav,data/mixed_sounds/heart_ref/wav/H0051.wav
+F,Early Systolic Murmur,LC,H0052,M0052,data/mixed_sounds/mixed_ref/wav/M0052.wav,data/mixed_sounds/heart_ref/wav/H0052.wav
+F,Atrial Fibrillation,LLSB,H0053,M0053,data/mixed_sounds/mixed_ref/wav/M0053.wav,data/mixed_sounds/heart_ref/wav/H0053.wav
+F,Late Diastolic Murmur,RUSB,H0054,M0054,data/mixed_sounds/mixed_ref/wav/M0054.wav,data/mixed_sounds/heart_ref/wav/H0054.wav
+M,Late Systolic Murmur,RC,H0055,M0055,data/mixed_sounds/mixed_ref/wav/M0055.wav,data/mixed_sounds/heart_ref/wav/H0055.wav
+F,AV Block,LUSB,H0056,M0056,data/mixed_sounds/mixed_ref/wav/M0056.wav,data/mixed_sounds/heart_ref/wav/H0056.wav
+F,Late Diastolic Murmur,RLA,H0057,M0057,data/mixed_sounds/mixed_ref/wav/M0057.wav,data/mixed_sounds/heart_ref/wav/H0057.wav
+M,S4,RUSB,H0058,M0058,data/mixed_sounds/mixed_ref/wav/M0058.wav,data/mixed_sounds/heart_ref/wav/H0058.wav
+F,S3,RLA,H0059,M0059,data/mixed_sounds/mixed_ref/wav/M0059.wav,data/mixed_sounds/heart_ref/wav/H0059.wav
+M,Late Diastolic Murmur,LMA,H0060,M0060,data/mixed_sounds/mixed_ref/wav/M0060.wav,data/mixed_sounds/heart_ref/wav/H0060.wav
+F,S4,LLSB,H0061,M0061,data/mixed_sounds/mixed_ref/wav/M0061.wav,data/mixed_sounds/heart_ref/wav/H0061.wav
+F,Tachycardia,RMA,H0062,M0062,data/mixed_sounds/mixed_ref/wav/M0062.wav,data/mixed_sounds/heart_ref/wav/H0062.wav
+F,S4,RUA,H0063,M0063,data/mixed_sounds/mixed_ref/wav/M0063.wav,data/mixed_sounds/heart_ref/wav/H0063.wav
+M,S4,Apex,H0064,M0064,data/mixed_sounds/mixed_ref/wav/M0064.wav,data/mixed_sounds/heart_ref/wav/H0064.wav
+F,Atrial Fibrillation,Apex,H0065,M0065,data/mixed_sounds/mixed_ref/wav/M0065.wav,data/mixed_sounds/heart_ref/wav/H0065.wav
+M,Normal,LLSB,H0066,M0066,data/mixed_sounds/mixed_ref/wav/M0066.wav,data/mixed_sounds/heart_ref/wav/H0066.wav
+F,Atrial Fibrillation,RUA,H0067,M0067,data/mixed_sounds/mixed_ref/wav/M0067.wav,data/mixed_sounds/heart_ref/wav/H0067.wav
+M,S3,RUSB,H0068,M0068,data/mixed_sounds/mixed_ref/wav/M0068.wav,data/mixed_sounds/heart_ref/wav/H0068.wav
+M,Late Systolic Murmur,RLA,H0069,M0069,data/mixed_sounds/mixed_ref/wav/M0069.wav,data/mixed_sounds/heart_ref/wav/H0069.wav
+F,Late Systolic Murmur,LUA,H0070,M0070,data/mixed_sounds/mixed_ref/wav/M0070.wav,data/mixed_sounds/heart_ref/wav/H0070.wav
+M,S3,RUSB,H0071,M0071,data/mixed_sounds/mixed_ref/wav/M0071.wav,data/mixed_sounds/heart_ref/wav/H0071.wav
+M,S3,Apex,H0072,M0072,data/mixed_sounds/mixed_ref/wav/M0072.wav,data/mixed_sounds/heart_ref/wav/H0072.wav
+M,Mid Systolic Murmur,LMA,H0073,M0073,data/mixed_sounds/mixed_ref/wav/M0073.wav,data/mixed_sounds/heart_ref/wav/H0073.wav
+F,Normal,RUA,H0074,M0074,data/mixed_sounds/mixed_ref/wav/M0074.wav,data/mixed_sounds/heart_ref/wav/H0074.wav
+F,Early Systolic Murmur,LUSB,H0075,M0075,data/mixed_sounds/mixed_ref/wav/M0075.wav,data/mixed_sounds/heart_ref/wav/H0075.wav
+F,Mid Systolic Murmur,LMA,H0076,M0076,data/mixed_sounds/mixed_ref/wav/M0076.wav,data/mixed_sounds/heart_ref/wav/H0076.wav
+F,Late Diastolic Murmur,RUA,H0077,M0077,data/mixed_sounds/mixed_ref/wav/M0077.wav,data/mixed_sounds/heart_ref/wav/H0077.wav
+M,Late Systolic Murmur,RMA,H0078,M0078,data/mixed_sounds/mixed_ref/wav/M0078.wav,data/mixed_sounds/heart_ref/wav/H0078.wav
+F,Tachycardia,LC,H0079,M0079,data/mixed_sounds/mixed_ref/wav/M0079.wav,data/mixed_sounds/heart_ref/wav/H0079.wav
+M,Mid Systolic Murmur,LUSB,H0080,M0080,data/mixed_sounds/mixed_ref/wav/M0080.wav,data/mixed_sounds/heart_ref/wav/H0080.wav
+F,Late Systolic Murmur,LLSB,H0081,M0081,data/mixed_sounds/mixed_ref/wav/M0081.wav,data/mixed_sounds/heart_ref/wav/H0081.wav
+F,Late Systolic Murmur,LUA,H0082,M0082,data/mixed_sounds/mixed_ref/wav/M0082.wav,data/mixed_sounds/heart_ref/wav/H0082.wav
+M,AV Block,LLSB,H0083,M0083,data/mixed_sounds/mixed_ref/wav/M0083.wav,data/mixed_sounds/heart_ref/wav/H0083.wav
+M,Early Systolic Murmur,LMA,H0084,M0084,data/mixed_sounds/mixed_ref/wav/M0084.wav,data/mixed_sounds/heart_ref/wav/H0084.wav
+F,Normal,LC,H0085,M0085,data/mixed_sounds/mixed_ref/wav/M0085.wav,data/mixed_sounds/heart_ref/wav/H0085.wav
+M,Mid Systolic Murmur,LMA,H0086,M0086,data/mixed_sounds/mixed_ref/wav/M0086.wav,data/mixed_sounds/heart_ref/wav/H0086.wav
+M,Atrial Fibrillation,LMA,H0087,M0087,data/mixed_sounds/mixed_ref/wav/M0087.wav,data/mixed_sounds/heart_ref/wav/H0087.wav
+M,S4,LC,H0088,M0088,data/mixed_sounds/mixed_ref/wav/M0088.wav,data/mixed_sounds/heart_ref/wav/H0088.wav
+M,Mid Systolic Murmur,LC,H0089,M0089,data/mixed_sounds/mixed_ref/wav/M0089.wav,data/mixed_sounds/heart_ref/wav/H0089.wav
+M,Tachycardia,RUA,H0090,M0090,data/mixed_sounds/mixed_ref/wav/M0090.wav,data/mixed_sounds/heart_ref/wav/H0090.wav
+M,Atrial Fibrillation,RUSB,H0091,M0091,data/mixed_sounds/mixed_ref/wav/M0091.wav,data/mixed_sounds/heart_ref/wav/H0091.wav
+M,S4,RC,H0092,M0092,data/mixed_sounds/mixed_ref/wav/M0092.wav,data/mixed_sounds/heart_ref/wav/H0092.wav
+M,AV Block,LMA,H0093,M0093,data/mixed_sounds/mixed_ref/wav/M0093.wav,data/mixed_sounds/heart_ref/wav/H0093.wav
+M,Late Systolic Murmur,LC,H0094,M0094,data/mixed_sounds/mixed_ref/wav/M0094.wav,data/mixed_sounds/heart_ref/wav/H0094.wav
+F,Mid Systolic Murmur,Apex,H0095,M0095,data/mixed_sounds/mixed_ref/wav/M0095.wav,data/mixed_sounds/heart_ref/wav/H0095.wav
+M,Normal,LUA,H0096,M0096,data/mixed_sounds/mixed_ref/wav/M0096.wav,data/mixed_sounds/heart_ref/wav/H0096.wav
+F,Late Diastolic Murmur,RUSB,H0097,M0097,data/mixed_sounds/mixed_ref/wav/M0097.wav,data/mixed_sounds/heart_ref/wav/H0097.wav
+M,Tachycardia,LUSB,H0098,M0098,data/mixed_sounds/mixed_ref/wav/M0098.wav,data/mixed_sounds/heart_ref/wav/H0098.wav
+F,AV Block,RUSB,H0099,M0099,data/mixed_sounds/mixed_ref/wav/M0099.wav,data/mixed_sounds/heart_ref/wav/H0099.wav
+F,Late Systolic Murmur,LLSB,H0100,M0100,data/mixed_sounds/mixed_ref/wav/M0100.wav,data/mixed_sounds/heart_ref/wav/H0100.wav
+M,Late Systolic Murmur,RMA,H0101,M0101,data/mixed_sounds/mixed_ref/wav/M0101.wav,data/mixed_sounds/heart_ref/wav/H0101.wav
+M,Atrial Fibrillation,RLA,H0102,M0102,data/mixed_sounds/mixed_ref/wav/M0102.wav,data/mixed_sounds/heart_ref/wav/H0102.wav
+F,Normal,LLA,H0103,M0103,data/mixed_sounds/mixed_ref/wav/M0103.wav,data/mixed_sounds/heart_ref/wav/H0103.wav
+M,Mid Systolic Murmur,LUSB,H0104,M0104,data/mixed_sounds/mixed_ref/wav/M0104.wav,data/mixed_sounds/heart_ref/wav/H0104.wav
+F,Late Systolic Murmur,RUSB,H0105,M0105,data/mixed_sounds/mixed_ref/wav/M0105.wav,data/mixed_sounds/heart_ref/wav/H0105.wav
+M,Normal,RC,H0106,M0106,data/mixed_sounds/mixed_ref/wav/M0106.wav,data/mixed_sounds/heart_ref/wav/H0106.wav
+M,Normal,LLSB,H0107,M0107,data/mixed_sounds/mixed_ref/wav/M0107.wav,data/mixed_sounds/heart_ref/wav/H0107.wav
+F,Late Systolic Murmur,LUA,H0108,M0108,data/mixed_sounds/mixed_ref/wav/M0108.wav,data/mixed_sounds/heart_ref/wav/H0108.wav
+F,Mid Systolic Murmur,LLA,H0109,M0109,data/mixed_sounds/mixed_ref/wav/M0109.wav,data/mixed_sounds/heart_ref/wav/H0109.wav
+F,Early Systolic Murmur,RLA,H0110,M0110,data/mixed_sounds/mixed_ref/wav/M0110.wav,data/mixed_sounds/heart_ref/wav/H0110.wav
+F,Normal,LLA,H0111,M0111,data/mixed_sounds/mixed_ref/wav/M0111.wav,data/mixed_sounds/heart_ref/wav/H0111.wav
+F,Late Systolic Murmur,LLA,H0112,M0112,data/mixed_sounds/mixed_ref/wav/M0112.wav,data/mixed_sounds/heart_ref/wav/H0112.wav
+F,Mid Systolic Murmur,RUSB,H0113,M0113,data/mixed_sounds/mixed_ref/wav/M0113.wav,data/mixed_sounds/heart_ref/wav/H0113.wav
+M,Atrial Fibrillation,Apex,H0114,M0114,data/mixed_sounds/mixed_ref/wav/M0114.wav,data/mixed_sounds/heart_ref/wav/H0114.wav
+F,Atrial Fibrillation,LLA,H0115,M0115,data/mixed_sounds/mixed_ref/wav/M0115.wav,data/mixed_sounds/heart_ref/wav/H0115.wav
+M,S4,RUA,H0116,M0116,data/mixed_sounds/mixed_ref/wav/M0116.wav,data/mixed_sounds/heart_ref/wav/H0116.wav
+M,Early Systolic Murmur,RMA,H0117,M0117,data/mixed_sounds/mixed_ref/wav/M0117.wav,data/mixed_sounds/heart_ref/wav/H0117.wav
+M,Tachycardia,RMA,H0118,M0118,data/mixed_sounds/mixed_ref/wav/M0118.wav,data/mixed_sounds/heart_ref/wav/H0118.wav
+F,S3,LLA,H0119,M0119,data/mixed_sounds/mixed_ref/wav/M0119.wav,data/mixed_sounds/heart_ref/wav/H0119.wav
+F,Early Systolic Murmur,LLA,H0120,M0120,data/mixed_sounds/mixed_ref/wav/M0120.wav,data/mixed_sounds/heart_ref/wav/H0120.wav
+F,AV Block,LLA,H0121,M0121,data/mixed_sounds/mixed_ref/wav/M0121.wav,data/mixed_sounds/heart_ref/wav/H0121.wav
+M,Normal,RC,H0122,M0122,data/mixed_sounds/mixed_ref/wav/M0122.wav,data/mixed_sounds/heart_ref/wav/H0122.wav
+M,Late Diastolic Murmur,LMA,H0123,M0123,data/mixed_sounds/mixed_ref/wav/M0123.wav,data/mixed_sounds/heart_ref/wav/H0123.wav
+M,AV Block,RMA,H0124,M0124,data/mixed_sounds/mixed_ref/wav/M0124.wav,data/mixed_sounds/heart_ref/wav/H0124.wav
+F,Mid Systolic Murmur,LUSB,H0125,M0125,data/mixed_sounds/mixed_ref/wav/M0125.wav,data/mixed_sounds/heart_ref/wav/H0125.wav
+F,Normal,LLA,H0126,M0126,data/mixed_sounds/mixed_ref/wav/M0126.wav,data/mixed_sounds/heart_ref/wav/H0126.wav
+M,S3,LLA,H0127,M0127,data/mixed_sounds/mixed_ref/wav/M0127.wav,data/mixed_sounds/heart_ref/wav/H0127.wav
+F,Mid Systolic Murmur,RUSB,H0128,M0128,data/mixed_sounds/mixed_ref/wav/M0128.wav,data/mixed_sounds/heart_ref/wav/H0128.wav
+F,Tachycardia,Apex,H0129,M0129,data/mixed_sounds/mixed_ref/wav/M0129.wav,data/mixed_sounds/heart_ref/wav/H0129.wav
+F,Early Systolic Murmur,LLSB,H0130,M0130,data/mixed_sounds/mixed_ref/wav/M0130.wav,data/mixed_sounds/heart_ref/wav/H0130.wav
+M,S4,LC,H0131,M0131,data/mixed_sounds/mixed_ref/wav/M0131.wav,data/mixed_sounds/heart_ref/wav/H0131.wav
+M,S3,LUA,H0132,M0132,data/mixed_sounds/mixed_ref/wav/M0132.wav,data/mixed_sounds/heart_ref/wav/H0132.wav
+F,Normal,Apex,H0133,M0133,data/mixed_sounds/mixed_ref/wav/M0133.wav,data/mixed_sounds/heart_ref/wav/H0133.wav
+M,AV Block,LMA,H0134,M0134,data/mixed_sounds/mixed_ref/wav/M0134.wav,data/mixed_sounds/heart_ref/wav/H0134.wav
+M,S4,LC,H0135,M0135,data/mixed_sounds/mixed_ref/wav/M0135.wav,data/mixed_sounds/heart_ref/wav/H0135.wav
+M,Tachycardia,RUSB,H0136,M0136,data/mixed_sounds/mixed_ref/wav/M0136.wav,data/mixed_sounds/heart_ref/wav/H0136.wav
+M,Late Diastolic Murmur,Apex,H0137,M0137,data/mixed_sounds/mixed_ref/wav/M0137.wav,data/mixed_sounds/heart_ref/wav/H0137.wav
+M,Tachycardia,LLA,H0138,M0138,data/mixed_sounds/mixed_ref/wav/M0138.wav,data/mixed_sounds/heart_ref/wav/H0138.wav
+M,S3,LC,H0139,M0139,data/mixed_sounds/mixed_ref/wav/M0139.wav,data/mixed_sounds/heart_ref/wav/H0139.wav
+F,Early Systolic Murmur,RLA,H0140,M0140,data/mixed_sounds/mixed_ref/wav/M0140.wav,data/mixed_sounds/heart_ref/wav/H0140.wav
+M,S4,Apex,H0141,M0141,data/mixed_sounds/mixed_ref/wav/M0141.wav,data/mixed_sounds/heart_ref/wav/H0141.wav
+F,Mid Systolic Murmur,RMA,H0142,M0142,data/mixed_sounds/mixed_ref/wav/M0142.wav,data/mixed_sounds/heart_ref/wav/H0142.wav
+F,Early Systolic Murmur,RLA,H0143,M0143,data/mixed_sounds/mixed_ref/wav/M0143.wav,data/mixed_sounds/heart_ref/wav/H0143.wav
+F,AV Block,LUA,H0144,M0144,data/mixed_sounds/mixed_ref/wav/M0144.wav,data/mixed_sounds/heart_ref/wav/H0144.wav
+M,Late Diastolic Murmur,RUSB,H0145,M0145,data/mixed_sounds/mixed_ref/wav/M0145.wav,data/mixed_sounds/heart_ref/wav/H0145.wav

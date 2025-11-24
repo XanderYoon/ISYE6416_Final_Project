@@ -1,0 +1,51 @@
+gender,lung_sound_type,location,lung_sound_id,filename
+M,Normal,RUA,M_N_RUA,data/lung_sounds/wav/M_N_RUA.wav
+F,Normal,LUA,F_N_LUA,data/lung_sounds/wav/F_N_LUA.wav
+F,Normal,RMA,F_N_RMA,data/lung_sounds/wav/F_N_RMA.wav
+F,Normal,LMA,F_N_LMA,data/lung_sounds/wav/F_N_LMA.wav
+M,Normal,RLA,M_N_RLA,data/lung_sounds/wav/M_N_RLA.wav
+M,Normal,LLA,M_N_LLA,data/lung_sounds/wav/M_N_LLA.wav
+M,Pleural Rub,RMA,M_PR_RMA,data/lung_sounds/wav/M_PR_RMA.wav
+M,Pleural Rub,LUA,M_PR_LUA,data/lung_sounds/wav/M_PR_LUA.wav
+F,Rhonchi,LUA,F_R_LUA,data/lung_sounds/wav/F_R_LUA.wav
+M,Wheezing,LUA,M_W_LUA,data/lung_sounds/wav/M_W_LUA.wav
+M,Fine Crackles,LUA,M_C_LUA,data/lung_sounds/wav/M_C_LUA.wav
+M,Normal,LUA,M_N_LUA,data/lung_sounds/wav/M_N_LUA.wav
+M,Coarse Crackles,LLA,M_G_LLA,data/lung_sounds/wav/M_G_LLA.wav
+M,Coarse Crackles,LUA,M_G_LUA,data/lung_sounds/wav/M_G_LUA.wav
+F,Fine Crackles,LUA,F_C_LUA,data/lung_sounds/wav/F_C_LUA.wav
+M,Coarse Crackles,RLA,M_G_RLA,data/lung_sounds/wav/M_G_RLA.wav
+F,Rhonchi,RLA,F_R_RLA,data/lung_sounds/wav/F_R_RLA.wav
+F,Wheezing,RUA,F_W_RUA,data/lung_sounds/wav/F_W_RUA.wav
+M,Pleural Rub,LLA,M_PR_LLA,data/lung_sounds/wav/M_PR_LLA.wav
+M,Pleural Rub,LMA,M_PR_LMA,data/lung_sounds/wav/M_PR_LMA.wav
+M,Rhonchi,RUA,M_R_RUA,data/lung_sounds/wav/M_R_RUA.wav
+M,Fine Crackles,RUA,M_C_RUA,data/lung_sounds/wav/M_C_RUA.wav
+M,Rhonchi,LUA,M_R_LUA,data/lung_sounds/wav/M_R_LUA.wav
+F,Pleural Rub,LMA,F_PR_LMA,data/lung_sounds/wav/F_PR_LMA.wav
+F,Coarse Crackles,LMA,F_G_LMA,data/lung_sounds/wav/F_G_LMA.wav
+F,Coarse Crackles,RLA,F_G_RLA,data/lung_sounds/wav/F_G_RLA.wav
+M,Fine Crackles,RLA,M_C_RLA,data/lung_sounds/wav/M_C_RLA.wav
+F,Coarse Crackles,RMA,F_G_RMA,data/lung_sounds/wav/F_G_RMA.wav
+M,Wheezing,RLA,M_W_RLA,data/lung_sounds/wav/M_W_RLA.wav
+M,Rhonchi,RLA,M_R_RLA,data/lung_sounds/wav/M_R_RLA.wav
+F,Fine Crackles,RLA,F_C_RLA,data/lung_sounds/wav/F_C_RLA.wav
+M,Normal,RMA,M_N_RMA,data/lung_sounds/wav/M_N_RMA.wav
+M,Rhonchi,LMA,M_R_LMA,data/lung_sounds/wav/M_R_LMA.wav
+F,Coarse Crackles,LLA,F_G_LLA,data/lung_sounds/wav/F_G_LLA.wav
+F,Rhonchi,LMA,F_R_LMA,data/lung_sounds/wav/F_R_LMA.wav
+F,Normal,LLA,F_N_LLA,data/lung_sounds/wav/F_N_LLA.wav
+M,Wheezing,RUA,M_W_RUA,data/lung_sounds/wav/M_W_RUA.wav
+M,Normal,LMA,M_N_LMA,data/lung_sounds/wav/M_N_LMA.wav
+F,Pleural Rub,LLA,F_PR_LLA,data/lung_sounds/wav/F_PR_LLA.wav
+M,Wheezing,RMA,M_W_RMA,data/lung_sounds/wav/M_W_RMA.wav
+M,Pleural Rub,RUA,M_PR_RUA,data/lung_sounds/wav/M_PR_RUA.wav
+M,Wheezing,LLA,M_W_LLA,data/lung_sounds/wav/M_W_LLA.wav
+M,Rhonchi,LLA,M_R_LLA,data/lung_sounds/wav/M_R_LLA.wav
+F,Normal,RLA,F_N_RLA,data/lung_sounds/wav/F_N_RLA.wav
+M,Coarse Crackles,LMA,M_G_LMA,data/lung_sounds/wav/M_G_LMA.wav
+M,Wheezing,LMA, M_W_LMA,data/lung_sounds/wav/M_W_LMA.wav
+F,Normal,RUA,F_N_RUA,data/lung_sounds/wav/F_N_RUA.wav
+M,Pleural Rub,RLA,M_PR_RLA,data/lung_sounds/wav/M_PR_RLA.wav
+F,Coarse Crackles,LUA,F_G_LUA,data/lung_sounds/wav/F_G_LUA.wav
+F,Pleural Rub,LUA,F_PR_LUA,data/lung_sounds/wav/F_PR_LUA.wav

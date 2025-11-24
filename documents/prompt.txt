@@ -1,0 +1,148 @@
+
+Learn this context for following prompts:
+I am trying to analyze the data described in the README.txt and analyze as outlined in the project_proposal. 
+
+Here are the topics covered in the course. you are encouraged to use them but not required, and you are welcome to apply methods not mentioned:
+Cross-validation, Bias-variance tradeoff, feature selection of linear models, smoothing splines, kernel density estimators, GMM, EM, HMM, PCA, Monte Carlo Methods, Bootstrapping, MCMC
+
+I want to complete this project in 5 stages.
+1. data loading and normalization
+2. data preprocessing and feature engineering/extraction
+3. Source separation/discrimination
+4. respective heart and lung sound type classification
+5. report accuracy/effectiveness, confidence intervals,  (maybe bootstrapping).
+
+I want to complete this only one stage at a time. I want you to give me the modular python functions and their implementations, I will then give you the outputs for further imrpovements and iterations.
+
+You are encouraged to print outputs and plot data visualization wherever feasible and useful to help gauge and assess method utility and performance/next steps. 
+
+---
+
+
+create a markdown documentation of our goal for this stage, approach/methods, and results. Use this to help others understand my code, as well as for documentation to create a final report later on 
+
+improve this prompt for better performance out of my llm.
+
+I am trying to analyze the data described in the README.txt and analyze as outlined in the project_proposal. 
+
+Here are the topics covered in the course. you are encouraged to use them but not required, and you are welcome to apply methods not mentioned:
+Cross-validation, Bias-variance tradeoff, feature selection of linear models, smoothing splines, kernel density estimators, GMM, EM, HMM, PCA, Monte Carlo Methods, Bootstrapping, MCMC
+
+I want to complete this project in 4 stages.
+1. data loading and normalization
+2. data preprocessing and feature engineering/extraction
+3. Source separation/discrimination
+4. respective heart and lung sound type classification
+
+I want to complete this only one stage at a time. I want you to give me the modular python functions and their implementations, I will then give you the outputs for further improvements and iterations.
+
+I have complete stages 1-3 in the jupyter notebooks attached to this project. The end goal for stage 4 is to take in a mixed_ref noise, and then be able to predict the sound_type for heart and lung respectively.
+
+
+You will implement the following workflow. Follow the steps exactly and do not repeat steps I say are already completed.
+
+## **Data Already Prepared (Do NOT recompute)**
+
+You already have the following variables prepared. **Do not include code to generate them.** Simply reference them when needed:
+
+* `heart_sound_features`, `heart_sound_labels`
+* `lung_sound_features`, `lung_sound_labels`
+* `mixed_sound_features`, `mixed_labels`
+* `mixed_heart_sound_features`,  `mixed_lung_sound_features`
+
+These represent the extracted features and labels for heart and lung sounds, as well as the mixed dataset.
+
+---
+
+# **Goal**
+
+For both **heart** and **lung** tasks (run the entire pipeline twice, once for each), perform **k-fold cross-validation** using:
+
+1. A **Random Forest feature regressor** (trained to predict features from mixed data).
+2. A **classifier pipeline** (with optional PCA and selectable model type).
+
+Finally, report:
+
+* Feature regression R² for each fold and mean R²
+* Classification F1, accuracy, and recall for each fold and their corresponding averages
+* confusion matrices
+
+---
+
+# **Pipeline Steps**
+
+## **Step 1 – K-Fold Setup**
+
+Split the **mixed dataset** (mixed_sound_features, mixed_heart_sound_features/mixed_lung_sound_features, mixed_labels) into *k* folds.
+---
+
+## **Step 2 – For Each Fold**
+
+For each train/test split:
+
+### **2.1 Train Feature Predictor (Random Forest Regressor)**
+
+Train a **Random Forest regressor with bootstrapping** on the training folds to predict the mixed_heart_sound_features/mixed_lung_sound_features from mixed_sound_features.
+
+Save the **feature R² score** for this fold.
+
+---
+
+### **2.2 Build Classifier Package**
+
+Implement a classification package/function that accepts:
+
+* `features`
+* `labels`
+* `pca` (boolean: apply PCA if true)
+* `model` (select which classifier to use)
+
+Implement **2–4 different model options** (e.g., SVM, RandomForestClassifier, GradientBoosting, LogisticRegression, etc.).
+
+This package should:
+
+1. Apply PCA if `pca=True`
+2. Train the classifier on the provided features/labels
+3. Expose a `.predict()` interface
+
+I want to train the selected classifier. first concatenate heart_sound_features/lung_sound_features with mixed_heart_sound_features/mixed_lung_sound_features, as well as their corresponding labels:
+the mixed_labels of the training folds, and heart_sound_labels/lung_sound_labels.
+
+---
+
+### **2.4 Use Feature Predictor → Then Classifier**
+
+On each fold:
+
+1. Feed **test mixed data** through the trained **feature regressor** to obtain predicted heart/lung features.
+2. Feed these predicted features into the classifier to obtain class predictions.
+3. Compare predictions with true test labels:
+
+   * `heart_sound_type` *or* `lung_sound_type` depending on which experiment is running.
+
+Save:
+
+* **F1-score**
+* **Accuracy**
+* **Recall**
+* confusion matrix (don't plot, save for calculations at hte end)
+---
+
+## **Repeat Entire Steps 2.1–2.4 Twice**
+
+* Once for **lung**
+* Once for **heart**
+
+---
+
+# **Step 3 – Final Report**
+
+After all folds are completed:
+
+Report for each task (heart and lung):
+
+* Feature R² scores per fold + average
+* F1-scores per fold + average
+* Accuracy per fold + average
+* Recall per fold + average
+* confusion matrix
